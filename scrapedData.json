@@ -1,0 +1,490 @@
+[
+  {
+    "title": "SRH Berufsbildungswerk Dresden",
+    "website": "http://www.srh-bbw-dresden.de",
+    "address": {
+      "street": "Hellerhofstraße 21",
+      "city": "01129 Dresden",
+      "region": "Sachsen"
+    },
+    "carrier": "SRH Berufsbildungswerk Sachsen GmbH",
+    "specializations": [
+      "Chronische Erkrankungen",
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen"
+    ],
+    "contacts": [
+      {
+        "name": "Kathleen Brückner",
+        "phone": "+493518437790",
+        "email": "kathleen.brueckner@srh.de"
+      },
+      {
+        "name": "Team Aufnahme",
+        "phone": "+493518437770",
+        "email": "kundenservice.bbwdd@srh.de"
+      },
+      {
+        "name": "Elvira Cielas",
+        "phone": "+493518437644",
+        "email": "Elvira.Cielas@srh.de"
+      },
+      {
+        "name": "Kathrin Berndt",
+        "phone": "+493518437642",
+        "email": "kathrin.berndt@srh.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Hof | Diakonie Hochfranken, Diakonie am Campus gGmbH",
+    "website": "http://www.diakonie-am-campus.de",
+    "address": {
+      "street": "Südring  96",
+      "city": "95032 Hof",
+      "region": "Bayern"
+    },
+    "carrier": "Diakonie Hochfranken gGmbH",
+    "specializations": [
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen",
+      "Sinnesbehinderungen"
+    ],
+    "contacts": [
+      {
+        "name": "Anthipi Mitacou",
+        "phone": "+499281759164",
+        "email": "anthipi.mitacou@diakonie-am-campus.de"
+      },
+      {
+        "name": "Christina Bucholdt",
+        "phone": "+499281759120",
+        "email": "christina.bucholdt@diakonie-am-campus.de"
+      }
+    ]
+  },
+  {
+    "title": "B.B.W. St. Franziskus Abensberg | Berufsbildungswerk Abensberg",
+    "website": "http://www.bbw-abensberg.de",
+    "address": {
+      "street": "Regensburger Straße 60",
+      "city": "93326 Abensberg",
+      "region": "Bayern"
+    },
+    "carrier": "Katholische Jugendfürsorge der Diözese Regensburg e.V.",
+    "specializations": [
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen"
+    ],
+    "contacts": [
+      {
+        "name": "Lydia Kammerzell",
+        "phone": "+4994437090",
+        "email": "Lydia.kammerzell@bbw-abensberg.de"
+      },
+      {
+        "name": "Walter Krug",
+        "phone": "+499443709203",
+        "email": "leitung@bbw-abensberg.de"
+      },
+      {
+        "name": "Teilnehmerbüro: Kathrin Lehner & Annabelle Engler",
+        "phone": "+499443709491",
+        "email": "kathrin.lehner@bbw-abensberg.de"
+      },
+      {
+        "name": "Hermann Bäumer",
+        "phone": "09443709121",
+        "email": "hermann.baeumer@bbw-abensberg.de"
+      },
+      {
+        "name": "Theresa Hagl",
+        "phone": "+499443709344",
+        "email": "theresa.hagl@bbw-abensberg.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Greifswald | BerufsBildungsWerk Greifswald",
+    "website": "http://www.bbw-greifswald.de",
+    "address": {
+      "street": "Pappelallee  2",
+      "city": "17489 Greifswald",
+      "region": "Mecklenburg-Vorpommern"
+    },
+    "carrier": "Pommerscher Diakonieverein e.V., Norddeutsche Gesellschaft für Diakonie mbH",
+    "specializations": [
+      "Chronische Erkrankungen",
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen",
+      "Sinnesbehinderungen"
+    ],
+    "contacts": [
+      {
+        "name": "Annette Haase",
+        "phone": "038348730",
+        "email": "mail@bbw-greifswald.de"
+      },
+      {
+        "name": "Dr. Michael Bartels",
+        "phone": "038348753112",
+        "email": "michael.bartels@pommerscher-diakonieverein.de"
+      },
+      {
+        "name": "Stefanie Niemeyer",
+        "phone": "03834873109",
+        "email": "mail@bbw-greifswald.de"
+      },
+      {
+        "name": "Brit Klöckner",
+        "phone": "03834873268",
+        "email": "aufnahme@bbw-greifswald.de"
+      },
+      {
+        "name": "Kirstin Pietruska",
+        "phone": "03834873214",
+        "email": "kirstin.pietruska@bbw-greifswald.de"
+      }
+    ]
+  },
+  {
+    "title": "ALBBW | Annedore-Leber-Berufsbildungswerk Berlin",
+    "website": "http://www.albbw.de",
+    "address": {
+      "street": "Paster-Behrens-Straße  88",
+      "city": "12359 Berlin",
+      "region": "Berlin"
+    },
+    "carrier": "Berufsbildungswerk Berlin e. V.",
+    "specializations": [
+      "Chronische Erkrankungen",
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen",
+      "Sinnesbehinderungen"
+    ],
+    "contacts": [
+      {
+        "name": "Andrea Trilck",
+        "phone": "03066588102",
+        "email": "sekretariat-gl@albbw.de"
+      },
+      {
+        "name": "Sabine Berg",
+        "phone": "03066588414",
+        "email": "Aufnahmebuero@albbw.de"
+      },
+      {
+        "name": "Denis Bläske",
+        "phone": "03066588201",
+        "email": "D.Blaeske@albbw.de"
+      },
+      {
+        "name": "Marco Kröger",
+        "phone": "03066588422",
+        "email": "M.Kroeger@albbw.de"
+      }
+    ]
+  },
+  {
+    "title": "RKI BBW Berlin | Rotkreuz-Institut Berufsbildungswerk im DRK Berlin gGmbH",
+    "website": "http://www.rkibbw.de",
+    "address": {
+      "street": "Krampnitzer Weg  83 - 87",
+      "city": "14089 Berlin",
+      "region": "Berlin"
+    },
+    "carrier": "DRK Landesverband Berliner Rotes Kreuz e. V.",
+    "specializations": ["Psychische Störungen"],
+    "contacts": [
+      {
+        "name": "Reha-Servicebüro",
+        "phone": "03036502222",
+        "email": "info@bbw-rki-berlin.de"
+      },
+      {
+        "name": "Regina Sattelmayer",
+        "phone": "03036502116",
+        "email": "sattelmayer.r@bbw-rki-berlin.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Ravensburg | BBW Adolf Aich",
+    "website": "https://www.stiftung-liebenau.de/bildung/",
+    "address": {
+      "street": "Schwanenstraße 92",
+      "city": "88214 Ravensburg",
+      "region": "Baden-Württemberg"
+    },
+    "carrier": "Kein Träger Gefunden",
+    "specializations": ["Lernbehinderungen", "Psychische Störungen"],
+    "contacts": [
+      {
+        "name": "Oliver Schweizer",
+        "phone": "075135556117",
+        "email": "oliver.schweizer@stiftung-liebenau.de"
+      },
+      {
+        "name": "Andrea Fischer",
+        "phone": "075135556444",
+        "email": "andrea.fischer@stiftung-liebenau.de"
+      },
+      {
+        "name": "Dolores Köber",
+        "phone": "075135556466",
+        "email": "dolores.koeber@stiftung-liebenau.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Bitburg | Europäisches Berufsbildungswerk",
+    "website": "http://www.euro-bbw.de",
+    "address": {
+      "street": "Henry-Dunant-Straße 1",
+      "city": "54634 Bitburg",
+      "region": "Rheinland-Pfalz"
+    },
+    "carrier": "Deutsches Rotes Kreuz Landesverband Rheinland-Pfalz",
+    "specializations": [
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen"
+    ],
+    "contacts": [
+      {
+        "name": "Anita Sonndag",
+        "phone": "065619453102",
+        "email": "SonndagA@euro-bbw.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Offenburg | CJD Offenburg - Berufsbildungswerk",
+    "website": "http://www.cjd-offenburg.de",
+    "address": {
+      "street": "Zähringerstraße  47-59",
+      "city": "77652 Offenburg",
+      "region": "Baden-Württemberg"
+    },
+    "carrier": "CJD",
+    "specializations": [
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen"
+    ],
+    "contacts": [
+      {
+        "name": "Silvia Müller",
+        "phone": "07817908200",
+        "email": "silvia.mueller@cjd.de"
+      },
+      {
+        "name": "Patrik Grieshaber",
+        "phone": "07817908274",
+        "email": "patrik.grieshaber@cjd.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Würzburg | Berufsbildungswerk der Caritas-Don Bosco gGmbH",
+    "website": "http://www.caritas-donbosco.de",
+    "address": {
+      "street": "Schottenanger 15",
+      "city": "97082 Würzburg",
+      "region": "Bayern"
+    },
+    "carrier": "Caritas-Don Bosco gGmbH",
+    "specializations": ["Lernbehinderungen", "Psychische Störungen"],
+    "contacts": [
+      {
+        "name": "Zentrale",
+        "phone": "093141920",
+        "email": "mail@caritas-donbosco.de"
+      },
+      {
+        "name": "Andreas Halbig",
+        "phone": "09314192100",
+        "email": "halbig.a@caritas-donbosco.de"
+      },
+      {
+        "name": "Julia Johannes",
+        "phone": "09314192170",
+        "email": "aufnahme-bbw@caritas-donbosco.de"
+      },
+      {
+        "name": "Frank Nikol",
+        "phone": "09314192235",
+        "email": "nikol.f@caritas-donbosco.de"
+      },
+      {
+        "name": "Thomas Schneider",
+        "phone": "09314192178",
+        "email": "schneider.t@caritas-donbosco.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Chemnitz | SFZ Förderzentrum gGmbH - Berufsbildungswerk Chemnitz",
+    "website": "http://www.sfz-chemnitz.de/bbw",
+    "address": {
+      "street": "Flemmingstraße 8c",
+      "city": "09116 Chemnitz",
+      "region": "Sachsen"
+    },
+    "carrier": "SFZ Förderzentrum gGmbH",
+    "specializations": [
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen",
+      "Sinnesbehinderungen"
+    ],
+    "contacts": [
+      {
+        "name": "Zentrale",
+        "phone": "037133440",
+        "email": "zentrale@bbw-chemnitz.de"
+      },
+      {
+        "name": "Kerstin Göhler",
+        "phone": "03713344213",
+        "email": "kgoehler@bbw-chemnitz.de"
+      },
+      {
+        "name": "Anja Löser",
+        "phone": "03713344126",
+        "email": "aloeser@sfz-chemnitz.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Bitburg | Europäisches Berufsbildungswerk",
+    "website": "http://www.euro-bbw.de",
+    "address": {
+      "street": "Henry-Dunant-Straße 1",
+      "city": "54634 Bitburg",
+      "region": "Rheinland-Pfalz"
+    },
+    "carrier": "Deutsches Rotes Kreuz Landesverband Rheinland-Pfalz",
+    "specializations": [
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen"
+    ],
+    "contacts": [
+      {
+        "name": "Anita Sonndag",
+        "phone": "065619453102",
+        "email": "SonndagA@euro-bbw.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Waiblingen | Berufsbildungswerk Waiblingen",
+    "website": "https://berufsbildungswerk.diakonie-stetten.de/",
+    "address": {
+      "street": "Steinbeisstraße 16",
+      "city": "71332 Waiblingen",
+      "region": "Baden-Württemberg"
+    },
+    "carrier": "Diakonie Stetten e.V.",
+    "specializations": ["Lernbehinderungen", "Psychische Störungen"],
+    "contacts": [
+      {
+        "name": "Telefonzentrale",
+        "phone": "0715150040",
+        "email": "info@bbw-waiblingen.de"
+      },
+      {
+        "name": "Sigrid Großhans",
+        "phone": "071515004357",
+        "email": "bbw-aufnahme@bbw-waiblingen.de"
+      },
+      {
+        "name": "Stefan Daum",
+        "phone": "071515004131",
+        "email": "stefan.daum@bbw-waiblingen.de"
+      },
+      {
+        "name": "Heike Horn",
+        "phone": "071515004419",
+        "email": "heike.horn@bbw-waiblingen.de"
+      }
+    ]
+  },
+  {
+    "title": "BBW Rummelsberg | Berufsbildungswerk Rummelsberg, Schwarzenbruck",
+    "website": "http://www.bbw-rummelsberg.de",
+    "address": {
+      "street": "Rummelsberg 74",
+      "city": "90592 Schwarzenbruck",
+      "region": "Bayern"
+    },
+    "carrier": "Rummelsberger Diakonie",
+    "specializations": [
+      "Chronische Erkrankungen",
+      "Körperbehinderungen",
+      "Lernbehinderungen",
+      "Psychische Störungen"
+    ],
+    "contacts": [
+      {
+        "name": "Sigrid Lang",
+        "phone": "09128503703",
+        "email": "lang.sigrid@rummelsberger.net"
+      },
+      {
+        "name": "Claudia Wittenzellner",
+        "phone": "09128503900",
+        "email": "wittenzellner.claudia@rummelsberger.net"
+      },
+      {
+        "name": "Iris Thieme",
+        "phone": "09128503806",
+        "email": "thieme.iris@rummelsberger.net"
+      }
+    ]
+  },
+  {
+    "title": "bbw Südhessen | Berufsbildungswerk Südhessen gGmbH, Karben",
+    "website": "http://www.bbw-suedhessen.de",
+    "address": {
+      "street": "Am Heroldsrain 1",
+      "city": "61184 Karben",
+      "region": "Hessen"
+    },
+    "carrier": "Kein Träger Gefunden",
+    "specializations": ["Lernbehinderungen", "Psychische Störungen"],
+    "contacts": [
+      {
+        "name": "Kontaktname nicht gefunden",
+        "phone": "060394820",
+        "email": "info@bbw-suedhessen.de"
+      },
+      {
+        "name": "Torsten Denker",
+        "phone": "06039482100",
+        "email": "leitung@bbw-suedhessen.de"
+      },
+      {
+        "name": "Lisa Newman (Aufnahme/Reha-Personalverwaltung)",
+        "phone": "06039482244",
+        "email": "aufnahme@bbw-suedhessen.de"
+      },
+      {
+        "name": "Uwe Hönecke (Jugendhilfe)",
+        "phone": "06039482131",
+        "email": "info@weltraeume-bbw.de"
+      },
+      {
+        "name": "Rosmarie Hermann (Berufsintegration/Kundenbetreuung)",
+        "phone": "06039482169",
+        "email": "rosmarie.hermann@bbw-suedhessen.de"
+      }
+    ]
+  }
+]
